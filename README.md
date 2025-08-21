@@ -4,7 +4,7 @@ Student intrested in backend , problem solving , CP  and low-level stuff and muc
 
 ---
 
-## Skills
+## languages & tools:
 
 <p align="left">
   <!-- C -->
